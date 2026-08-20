@@ -1,0 +1,6 @@
+{
+  "title": "Initialize Encrypted Mempool Framework and Enable ChunkyDKG Shadow V1",
+  "description": "Initialize encrypted-mempool framework resources, then enable ChunkyDKG in shadow mode (1/2 secrecy, 2/3 reconstruction, 120s grace period).",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-08-20-enable-chunky-dkg-shadow-v1",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+}
